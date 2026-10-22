@@ -1,0 +1,6 @@
+{
+  "name": "Fast Print Service",
+  "description": "Universal QR-Based Smart Document Upload and Printing Platform for Indian Printing Shops",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
